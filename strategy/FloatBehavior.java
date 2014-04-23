@@ -1,5 +1,5 @@
 package shapes.strategy;
 
-public interface BounceBehavior {
-	public void bounce();
+public interface FloatBehavior {
+	public void float();
 }
